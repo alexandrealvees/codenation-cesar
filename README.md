@@ -23,3 +23,4 @@ Para a submissão, utilizei o programa POSTMAN, disponível em [https://www.getp
 ## Score Esperado
 É esperado atingir 100% nesse desafio.
 ## Score atingido
+100%
